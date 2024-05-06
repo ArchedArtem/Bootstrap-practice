@@ -1,0 +1,83 @@
+.carusel .container .carousel{
+    width: 90%;
+    margin-top: 50px;
+}
+
+.carusel .container{
+    display: flex;
+    justify-content: center;
+}
+
+.yslygi{
+    margin-top: 100px;
+}
+
+.yslygi h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.yslygi .cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.comanda{
+    margin-top: 150px;
+}
+
+.comanda h2{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.comanda .container .cards .card .icons img{
+    width: 30px;
+    height: 30px;
+}
+
+.comanda .container .cards .card .icons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.comanda .container .cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.comanda .container .cards .card .card-img-top{
+    width: 90%;
+    align-self: center;
+    margin-top: 20px;
+}
+
+.comanda .infografic{
+    margin-top: 150px;
+}
+
+.comanda .infografic .container h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.comanda .infografic .container .infos .info p{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.comanda .infografic .container .infos .info .progress{
+    width: 80%;
+    height: 30px;
+}
+
+.comanda .infografic .container .infos .info{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
