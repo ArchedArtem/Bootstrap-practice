@@ -22,19 +22,20 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .yslygi .cards .card{
-    height: 440px;
+    margin: 10px;
 }
 
 .yslygi .cards .card h4{
     text-align: center;
-    font-size: 25px;
+    font-size: 1.7vw;
 }
 
 .yslygi .cards .card p{
-    font-size: 18px;
+    font-size: 1.5vw;
 }
 
 .comanda{
@@ -78,6 +79,11 @@
 .comanda .container .cards{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.comanda .container .card{
+    margin: 10px;
 }
 
 .comanda .container .cards .card .card-img-top{
